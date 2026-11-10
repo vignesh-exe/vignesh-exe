@@ -1,87 +1,71 @@
 # Vignesh Ashokan
 
-### Frontend Engineer | React.js | Next.js | JavaScript | TypeScript
+<h3 align="center">Frontend Engineer | React.js | Next.js | TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%7C+Building+Digital+Experiences;Turning+Ideas+Into+Production-Ready+Products;Crafting+Modern+Web+Applications;iOS+Development+%7C+100%25+Engineering+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;Turning+Ideas+Into+Digital+Products;Crafting+Scalable+Frontend+Applications;Exploring+iOS+Development+with+Swift" />
 </p>
 
 <p align="center">
   <a href="https://www.vigneshashokan.site/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Work-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="https://github.com/vignesh-exe">
-    <img src="https://img.shields.io/badge/GITHUB-Explore%20Repositories-white?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/vignesh-ashokan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
-I'm Vignesh Ashokan, a Software Engineer at **Accenture**, primarily focused on Frontend Engineering and building modern, scalable, and user-centric web applications.
+I'm **Vignesh Ashokan**, an Associate Software Engineer at **Accenture**, passionate about building modern, scalable, and user-focused digital products.
 
-My core expertise revolves around the JavaScript ecosystem, particularly React.js, Next.js, TypeScript, and modern frontend technologies.
+My primary focus is Frontend Engineering, working with the JavaScript ecosystem to transform ideas into intuitive web experiences.
 
-I enjoy transforming ideas into functional digital products, developing intuitive user interfaces, integrating APIs, optimizing application performance, and building complete web experiences.
+I also explore native iOS development, bringing cross-platform engineering knowledge into my development journey.
 
-Beyond frontend engineering, I also explore native iOS development using Swift and SwiftUI.
-
-**My engineering focus:**
-— Frontend Engineering & Web Development
-— Native iOS Development
-
-I believe in learning by building, solving real-world problems, and continuously improving the way software is engineered.
+- 💻 **90%** — Frontend Engineering & Web Development
+- 🍎 **10%** — iOS Development
+- 🚀 Interested in product development, UI engineering and application architecture.
+- 🌱 Currently exploring DevOps, cloud technologies and system design.
 
 ---
 
-## ⚡ Technical Stack
+## ⚡ Tech Stack
 
-### Frontend Engineering
+**Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap" />
 </p>
 
-### Backend & Integrations
+**Backend, Database & Integrations**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,graphql,supabase,azure,docker" />
 </p>
 
-- REST API Integration
-- JWT Authentication
-- Microservices
-- MuleSoft
-- Sitecore
+`REST APIs` · `JWT` · `Microservices` · `MuleSoft` · `Sitecore`
 
-### Desktop Application Development
+**Desktop Application Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=electron,vue,ts" />
 </p>
 
-- Electron
-- Vue.js
-- Desktop Application Architecture
-- PDF Invoice Generation
-- Database Integration
-
-### iOS Development
+**iOS Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=swift,apple" />
 </p>
 
-- Swift
-- SwiftUI
-- UIKit
-- MVVM
-- VIPER
-- URLSession
-- JSON Parsing
+`Swift` · `SwiftUI` · `UIKit` · `MVVM` · `VIPER` · `URLSession`
 
-### Tools & Workflow
+**Tools & Testing**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack,jest,vercel,netlify" />
@@ -89,132 +73,150 @@ I believe in learning by building, solving real-world problems, and continuously
 
 ---
 
-## 🚀 Projects & Products
+## 🚀 Featured Projects
 
-I enjoy building products that solve practical business problems and deliver meaningful digital experiences.
+Building real-world applications is where I enjoy putting my engineering skills into practice.
 
-Here are some of the projects I've worked on:
+<table>
+<tr>
+<td width="50%">
 
-### 01. Madras Tees
+### 🛍️ Madras Tees
 
-**JavaScript · E-commerce · Custom Apparel**
+**JavaScript · E-commerce**
 
-An e-commerce platform focused on oversized T-shirts and custom apparel, designed to deliver a smooth online shopping experience.
+An online shopping platform for oversized T-shirts and custom apparel.
 
-- Product discovery and shopping experience
-- Custom T-shirt functionality
-- Shopping cart and checkout workflows
-- Order management and customer experience
+- Product discovery
+- Custom T-shirt experience
+- Cart and checkout
+- Order management
 
-### 02. Sri Kavitha Enterprises
+</td>
+<td width="50%">
 
-**Next.js · Web Development · Business Website**
+### 🏢 Sri Kavitha Enterprises
 
-A professional business website for a homecare and manpower services enterprise.
+**Next.js · Business Website**
 
-- Business-focused web experience
-- Service presentation and information architecture
-- Responsive user interface
-- Modern frontend implementation
+A professional website for a homecare and manpower services enterprise.
 
-### 03. Aram Products
+- Business presentation
+- Service information
+- Responsive UI
+- Modern web experience
 
-**Web Development · E-commerce · Millet Products**
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-A digital presence for a business focused on traditional millet-based products.
+### 🌾 Aram Products
 
-- Product-focused website experience
+**Web Development · E-commerce**
+
+A digital platform for traditional millet-based products.
+
+- Product showcase
 - Brand presentation
 - Responsive layouts
 - Product discovery
 
-🌐 Website: https://www.aramproducts.in/
+[Visit Website](https://www.aramproducts.in/)
 
-### 04. The Backstore
+</td>
+<td width="50%">
 
-**Next.js · React.js · Tailwind CSS · E-commerce**
+### 👕 The Backstore
 
-An e-commerce experience built around clothing collections, product discovery, and customization.
+**Next.js · React · Tailwind CSS**
 
-- Modern shopping interface
+An e-commerce platform focused on clothing collections and customization.
+
 - Product collections
-- Image upload and customization workflows
-- Responsive product pages
-- Shopping experience and UI optimization
+- Image upload
+- Customization workflows
+- Shopping experience
 
-### 05. Madhu Engineering — Corporate Website
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Frontend Development · Business Website**
+### 🏗️ Madhu Engineering Website
 
-A corporate website for Madhu Engineering, focused on presenting the company's engineering services and business identity.
+**Frontend · Corporate Website**
 
-- Professional corporate web presence
-- Responsive layouts
-- Structured content presentation
-- User-focused interface design
+A corporate website presenting Madhu Engineering's services and business identity.
 
-### 06. Madhu Engineering — Enterprise Desktop Application
+- Corporate web presence
+- Service presentation
+- Responsive design
+- Structured content
+
+</td>
+<td width="50%">
+
+### 🖥️ Madhu Engineering Desktop App
 
 **Electron · Vue.js · TypeScript · Supabase**
 
-An enterprise desktop application designed to digitize internal business operations for Madhu Engineering.
+An enterprise desktop application for internal business operations.
 
-Key modules:
-
-- Secure authentication
+- Authentication
 - Inventory management
-- Stock tracking
-- Sales and invoice generation
-- Automated inventory updates after finalized invoices
-- Salary management and documentation
-- Monthly salary statement export
+- Sales and PDF invoicing
+- Automated stock updates
+- Salary management
+- Excel statement export
 
-Built to simplify internal workflows and bring multiple business operations into one desktop application.
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Professional Experience
+## 🧩 What I Build
+
+| Area | What I focus on |
+|---|---|
+| Frontend Engineering | Responsive, reusable and scalable interfaces |
+| Web Applications | React.js and Next.js applications |
+| E-commerce | Product discovery, cart and checkout experiences |
+| Enterprise Solutions | Business applications and workflow automation |
+| Desktop Applications | Electron-based business software |
+| iOS Development | Native applications using Swift and SwiftUI |
+
+---
+
+## 💼 Professional Journey
 
 **Associate Software Engineer — Accenture**
 
-Working on enterprise application development with a primary focus on frontend engineering.
+Working on enterprise application development with experience across:
 
-Areas of experience:
-
-- React.js and Next.js application development
-- Enterprise web application development
-- Responsive UI implementation
-- API integration and backend communication
-- Sitecore and MuleSoft integrations
+- React.js and Next.js development
+- Enterprise UI implementation
+- API and microservices integration
+- Sitecore and MuleSoft
 - Application debugging and performance improvements
 - Native iOS development using Swift and SwiftUI
 
 ---
 
-## 🍎 Beyond Web Development
-
-While frontend engineering is my primary specialization, I also work with Apple's development ecosystem.
-
-I explore native iOS development using Swift, SwiftUI, UIKit, and architectural patterns such as MVVM and VIPER.
-
-My interest in iOS development helps me understand application engineering across different platforms and deliver consistent digital experiences.
-
----
-
 ## 🌱 Currently Exploring
 
-- Advanced React.js and Next.js
-- Frontend architecture and design patterns
-- TypeScript and scalable application development
-- Web performance and optimization
+- Advanced React.js & Next.js
+- Frontend architecture and performance optimization
+- TypeScript and scalable application design
 - System Design
-- Docker and CI/CD
-- DevOps and cloud engineering
-- Advanced SwiftUI and iOS architecture
+- Docker, CI/CD and DevOps
+- Cloud infrastructure
+- Advanced SwiftUI
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Dashboard
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vignesh-exe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -222,43 +224,37 @@ My interest in iOS development helps me understand application engineering acros
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-exe&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-exe&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 My Contribution Journey
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vignesh-exe/vignesh-exe/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/vignesh-exe/vignesh-exe/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with fellow developers, discussing technology, sharing ideas, and collaborating on interesting projects.
-
 <p align="center">
   <a href="https://www.vigneshashokan.site/">
-    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="https://github.com/vignesh-exe">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/vignesh-ashokan/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vignesh-exe&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=vignesh-exe&style=flat-square&color=38BDF8&label=PROFILE+VISITORS" />
 </p>
 
 <p align="center">
-  <b>Building experiences. Engineering solutions. Creating impact.</b>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
+  <b>Building experiences. Engineering solutions. Creating impact. 🚀</b>
 </p>
