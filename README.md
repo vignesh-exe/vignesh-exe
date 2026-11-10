@@ -3,7 +3,7 @@
 ### Frontend Engineer | React.js | Next.js | JavaScript | TypeScript
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%7C+Building+Digital+Experiences;Turning+Ideas+Into+Production-Ready+Products;Crafting+Modern+Web+Applications;10%25+iOS+Development+%7C+100%25+Engineering+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%7C+Building+Digital+Experiences;Turning+Ideas+Into+Production-Ready+Products;Crafting+Modern+Web+Applications;iOS+Development+%7C+100%25+Engineering+Mindset" />
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@ I enjoy transforming ideas into functional digital products, developing intuitiv
 Beyond frontend engineering, I also explore native iOS development using Swift and SwiftUI.
 
 **My engineering focus:**
-- 90% — Frontend Engineering & Web Development
-- 10% — Native iOS Development
+— Frontend Engineering & Web Development
+— Native iOS Development
 
 I believe in learning by building, solving real-world problems, and continuously improving the way software is engineered.
 
