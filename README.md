@@ -1,30 +1,264 @@
-## Hi there 👋 It's me Vignesh
+# Vignesh Ashokan
 
-Frontend Developer @ Accenture
-<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+### Frontend Engineer | React.js | Next.js | JavaScript | TypeScript
 
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)
-- Engineeing at [<img src="https://saveetha.ac.in/wp-content/uploads/2024/03/sec-logo-01as.png" height="24">](https://saveetha.ac.in/),
-- 🌱 I’m currently working in Accenture as a packaged app development associate. [<img src="https://media.licdn.com/dms/image/v2/D5622AQGFPA2MKPL01A/feedshare-shrink_2048_1536/B56ZS4qQT4GsA0-/0/1738264873174?e=2147483647&v=beta&t=MToH-NUtQ7HdxSJAEp1UFyZ5XDVhvKqaNogBtEvqFf0" height="24">](https://www.accenture.com/in-en)
-- ⚡ Fun fact: I know Japanese.
-- Social Presence
-  <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%7C+Building+Digital+Experiences;Turning+Ideas+Into+Production-Ready+Products;Crafting+Modern+Web+Applications;10%25+iOS+Development+%7C+100%25+Engineering+Mindset" />
+</p>
 
-### I code in
+<p align="center">
+  <a href="https://www.vigneshashokan.site/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Work-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="https://github.com/vignesh-exe">
+    <img src="https://img.shields.io/badge/GITHUB-Explore%20Repositories-white?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+---
 
-### IDE and Tools I Use
+## `$ whoami`
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+I'm Vignesh Ashokan, a Software Engineer at **Accenture**, primarily focused on Frontend Engineering and building modern, scalable, and user-centric web applications.
 
-### 💻 Workspace Spec
+My core expertise revolves around the JavaScript ecosystem, particularly React.js, Next.js, TypeScript, and modern frontend technologies.
 
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+I enjoy transforming ideas into functional digital products, developing intuitive user interfaces, integrating APIs, optimizing application performance, and building complete web experiences.
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+Beyond frontend engineering, I also explore native iOS development using Swift and SwiftUI.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+**My engineering focus:**
+- 90% — Frontend Engineering & Web Development
+- 10% — Native iOS Development
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+I believe in learning by building, solving real-world problems, and continuously improving the way software is engineered.
+
+---
+
+## ⚡ Technical Stack
+
+### Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,materialui" />
+</p>
+
+### Backend & Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,graphql,supabase,azure,docker" />
+</p>
+
+- REST API Integration
+- JWT Authentication
+- Microservices
+- MuleSoft
+- Sitecore
+
+### Desktop Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,vue,ts" />
+</p>
+
+- Electron
+- Vue.js
+- Desktop Application Architecture
+- PDF Invoice Generation
+- Database Integration
+
+### iOS Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,apple" />
+</p>
+
+- Swift
+- SwiftUI
+- UIKit
+- MVVM
+- VIPER
+- URLSession
+- JSON Parsing
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack,jest,vercel,netlify" />
+</p>
+
+---
+
+## 🚀 Projects & Products
+
+I enjoy building products that solve practical business problems and deliver meaningful digital experiences.
+
+Here are some of the projects I've worked on:
+
+### 01. Madras Tees
+
+**JavaScript · E-commerce · Custom Apparel**
+
+An e-commerce platform focused on oversized T-shirts and custom apparel, designed to deliver a smooth online shopping experience.
+
+- Product discovery and shopping experience
+- Custom T-shirt functionality
+- Shopping cart and checkout workflows
+- Order management and customer experience
+
+### 02. Sri Kavitha Enterprises
+
+**Next.js · Web Development · Business Website**
+
+A professional business website for a homecare and manpower services enterprise.
+
+- Business-focused web experience
+- Service presentation and information architecture
+- Responsive user interface
+- Modern frontend implementation
+
+### 03. Aram Products
+
+**Web Development · E-commerce · Millet Products**
+
+A digital presence for a business focused on traditional millet-based products.
+
+- Product-focused website experience
+- Brand presentation
+- Responsive layouts
+- Product discovery
+
+🌐 Website: https://www.aramproducts.in/
+
+### 04. The Backstore
+
+**Next.js · React.js · Tailwind CSS · E-commerce**
+
+An e-commerce experience built around clothing collections, product discovery, and customization.
+
+- Modern shopping interface
+- Product collections
+- Image upload and customization workflows
+- Responsive product pages
+- Shopping experience and UI optimization
+
+### 05. Madhu Engineering — Corporate Website
+
+**Frontend Development · Business Website**
+
+A corporate website for Madhu Engineering, focused on presenting the company's engineering services and business identity.
+
+- Professional corporate web presence
+- Responsive layouts
+- Structured content presentation
+- User-focused interface design
+
+### 06. Madhu Engineering — Enterprise Desktop Application
+
+**Electron · Vue.js · TypeScript · Supabase**
+
+An enterprise desktop application designed to digitize internal business operations for Madhu Engineering.
+
+Key modules:
+
+- Secure authentication
+- Inventory management
+- Stock tracking
+- Sales and invoice generation
+- Automated inventory updates after finalized invoices
+- Salary management and documentation
+- Monthly salary statement export
+
+Built to simplify internal workflows and bring multiple business operations into one desktop application.
+
+---
+
+## 💼 Professional Experience
+
+**Associate Software Engineer — Accenture**
+
+Working on enterprise application development with a primary focus on frontend engineering.
+
+Areas of experience:
+
+- React.js and Next.js application development
+- Enterprise web application development
+- Responsive UI implementation
+- API integration and backend communication
+- Sitecore and MuleSoft integrations
+- Application debugging and performance improvements
+- Native iOS development using Swift and SwiftUI
+
+---
+
+## 🍎 Beyond Web Development
+
+While frontend engineering is my primary specialization, I also work with Apple's development ecosystem.
+
+I explore native iOS development using Swift, SwiftUI, UIKit, and architectural patterns such as MVVM and VIPER.
+
+My interest in iOS development helps me understand application engineering across different platforms and deliver consistent digital experiences.
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced React.js and Next.js
+- Frontend architecture and design patterns
+- TypeScript and scalable application development
+- Web performance and optimization
+- System Design
+- Docker and CI/CD
+- DevOps and cloud engineering
+- Advanced SwiftUI and iOS architecture
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vignesh-exe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-exe&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-exe&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vignesh-exe/vignesh-exe/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with fellow developers, discussing technology, sharing ideas, and collaborating on interesting projects.
+
+<p align="center">
+  <a href="https://www.vigneshashokan.site/">
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/vignesh-exe">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vignesh-ashokan/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vignesh-exe&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <b>Building experiences. Engineering solutions. Creating impact.</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
